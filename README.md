@@ -1,4 +1,14 @@
 ### Hi there 👋
+# Lucas Araújo de Carvalho
+
+Sou entusiasta da tecnologia e estou sempre aprendendo e experimentando coisas novas. Fique à vontade para explorar os projetos, colaborar e fornecer feedback. Espero que você encontre algo útil aqui! Alem de programador sou corredor e filmaker nas horas vagas
+
+Atualmente estou cursando Font-end no **SENAI-SP** Conde José Vicente de Azevedo e eletrônica automotiva na Fatec Santo André 
+
+## Formação
+
+### Tecnologias que estou aprendendo 
+
 
 <!--
 **lucasaraujo014/lucasaraujo014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
