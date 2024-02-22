@@ -1,6 +1,6 @@
 # Lucas Araújo de Carvalho
 
-Sou entusiasta da tecnologia e estou sempre aprendendo e experimentando coisas novas. Fique à vontade para explorar os projetos, colaborar e fornecer feedback. Espero que você encontre algo útil aqui! Alem de programador sou corredor e filmaker nas horas vagas
+Sou entusiasta da tecnologia e estou sempre aprendendo e experimentando coisas novas. Fique à vontade para explorar os projetos, colaborar e fornecer feedback. Espero que você encontre algo útil aqui! Alem de programador sou corredor 🏃‍♂️ e filmaker 📹 nas horas vagas. 
 
 Atualmente estou cursando Font-end no SENAI Conde José Vicente de Azevedo e eletrônica automotiva na Fatec Santo André 
 
@@ -23,7 +23,7 @@ Atualmente estou cursando Font-end no SENAI Conde José Vicente de Azevedo e ele
 
 Acesse o [guia basico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).
 
-Veja a aplicação que faço em [microcontroladores](http://ww1.microchip.com/downloads/en/DeviceDoc/39632e.pdf).
+Veja sobre o [microcontroladores](http://ww1.microchip.com/downloads/en/DeviceDoc/39632e.pdf) que utilizo.
 
 
 <!--
