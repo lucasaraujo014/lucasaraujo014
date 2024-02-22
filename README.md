@@ -1,4 +1,3 @@
-### Hi there 👋
 # Lucas Araújo de Carvalho
 
 Sou entusiasta da tecnologia e estou sempre aprendendo e experimentando coisas novas. Fique à vontade para explorar os projetos, colaborar e fornecer feedback. Espero que você encontre algo útil aqui! Alem de programador sou corredor e filmaker nas horas vagas
@@ -8,6 +7,9 @@ Atualmente estou cursando Font-end no **SENAI-SP** Conde José Vicente de Azeved
 ## Formação
 
 ### Tecnologias que estou aprendendo 
+Markdown
+Acesse o [guia basico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+linguagem C para microcontroladores
 
 
 <!--
