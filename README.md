@@ -7,7 +7,7 @@ Atualmente estou cursando Font-end no SENAI Conde José Vicente de Azevedo e ele
 ## Formação
 
 * Tenho formação como técnico em Mecatrônica pela Etec Julio de Mesquita
-* Fiz alguns cursos relacionados a manutenção de maquinas de forma gerenalista Pelo SENAI Jacob Lafer
+* Fiz alguns cursos relacionados a manutenção de maquinas de forma gerenalista pelo SENAI Jacob Lafer
 
 
 ### Tecnologias que estou aprendendo:
